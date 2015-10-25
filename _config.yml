@@ -6,6 +6,7 @@ workshop_site   : "http://swcarpentry.github.io/workshop-template"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
+dc_site         : "http://datacarpentry.org"
 swc_blog        : "http://software-carpentry.org/feed.xml"
 swc_contact     : "admin@software-carpentry.org"
 swc_files       : "http://files.software-carpentry.org"
